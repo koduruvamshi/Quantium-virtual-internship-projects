@@ -9,9 +9,9 @@ Task 1:  Data preparation and customer analytics
     
 Task 2: Experimentation and uplift testing
 *Business Requirements:
-1.Define metrics to select control stores.
-2.Analyze trial stores against controls.
-3.Visualize findings and provide recommendations.
+ 1. Define metrics to select control stores.
+ 2. Analyze trial stores against controls.
+ 3. Visualize findings and provide recommendations.
 
 Procedure: 
 •	Performed comprehensive Python data extraction, manipulation, and analysis, leading to a
