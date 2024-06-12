@@ -1,13 +1,15 @@
 # Quantium-virtual-internship-projects
 
 Task 1:  Data preparation and customer analytics
- *Business Requirements:
+ 
+  *Business Requirements:
  1. To analyze transaction and customer data to identify trends and inconsistencies.
  2. Develop metrics and examine sales drivers to gain insights into overall sales performance.
  3. Create visualizations and prepare findings to formulate a clear recommendation for the 
     client's strategy.
     
 Task 2: Experimentation and uplift testing
+
  *Business Requirements:
  1. Define metrics to select control stores.
  2. Analyze trial stores against controls.
