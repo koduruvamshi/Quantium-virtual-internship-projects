@@ -16,12 +16,13 @@ Task 2: Experimentation and uplift testing
  3. Visualize findings and provide recommendations.
 
 Procedure: 
-•	Performed comprehensive Python data extraction, manipulation, and analysis, leading to a
-  20% enhancement in decision-making capabilities.
-•	Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts. 
-•	Created static visualization graphs using jupyter notebook enabling evidence-based decision-making.
-•	Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
-•	Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
-•	Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+
+•	 Performed comprehensive Python data extraction, manipulation, and analysis, leading to a
+   20% enhancement in decision-making capabilities.
+•	 Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts. 
+•	 Created static visualization graphs using jupyter notebook enabling evidence-based decision-making.
+•	 Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
+•	 Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
+•	 Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
 
  
